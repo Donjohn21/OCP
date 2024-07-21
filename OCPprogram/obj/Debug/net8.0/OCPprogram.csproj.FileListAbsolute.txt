@@ -1,0 +1,14 @@
+C:\OCP\OCPprogram\obj\Debug\net8.0\OCPprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\OCP\OCPprogram\obj\Debug\net8.0\OCPprogram.AssemblyInfoInputs.cache
+C:\OCP\OCPprogram\obj\Debug\net8.0\OCPprogram.AssemblyInfo.cs
+C:\OCP\OCPprogram\obj\Debug\net8.0\OCPprogram.csproj.CoreCompileInputs.cache
+C:\OCP\OCPprogram\bin\Debug\net8.0\OCPprogram.exe
+C:\OCP\OCPprogram\bin\Debug\net8.0\OCPprogram.deps.json
+C:\OCP\OCPprogram\bin\Debug\net8.0\OCPprogram.runtimeconfig.json
+C:\OCP\OCPprogram\bin\Debug\net8.0\OCPprogram.dll
+C:\OCP\OCPprogram\bin\Debug\net8.0\OCPprogram.pdb
+C:\OCP\OCPprogram\obj\Debug\net8.0\OCPprogram.dll
+C:\OCP\OCPprogram\obj\Debug\net8.0\refint\OCPprogram.dll
+C:\OCP\OCPprogram\obj\Debug\net8.0\OCPprogram.pdb
+C:\OCP\OCPprogram\obj\Debug\net8.0\OCPprogram.genruntimeconfig.cache
+C:\OCP\OCPprogram\obj\Debug\net8.0\ref\OCPprogram.dll
